@@ -1,7 +1,7 @@
 ## Problem
 
 Until now, we have been saving the logging user credentials into the in-memory application, therefore,
-the users info was created each time we run the application and lost when we stopped it.
+the users info was created each time we run the application and lost when we stop it.
 
 ## Solution
 
